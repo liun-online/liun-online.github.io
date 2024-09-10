@@ -56,6 +56,27 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Academic Service -->
+    {% if page.academic_service %}
+      <h2>
+        Academic Service
+      </h2>
+      <ul>
+      <li><b>Conference</b> ICML 24, NeurIPS 24, ICLR 25, KDD 25, AAAI 25, LOG 24</li>
+      <li><b>Journal</b> IEEE TAI </li>
+      </ul>
+    {% endif %}
+
+    <!-- Teaching Assistant -->
+    {% if page.teaching %}
+      <h2>
+        Teaching Assistant
+      </h2>
+      <ul>
+      <li>2024/2025 semester 1, CS5284 Graph Machnie Learning</li>
+      </ul>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
