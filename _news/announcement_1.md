@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Become a NUS PhD candidate, supervised by Prof. Xavier Bresson  :sparkles: :smile:
+Become a NUS PhD candidate, supervised by Prof. Xavier Bresson  :sparkles: :sparkles:
