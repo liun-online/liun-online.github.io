@@ -1,7 +1,7 @@
 ---
 layout: about
 title: NIAN LIU
-permalink: /about/
+permalink: /
 subtitle: National University of Singapore, PhD candidate.
 
 profile:
