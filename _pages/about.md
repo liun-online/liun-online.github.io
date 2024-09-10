@@ -1,8 +1,8 @@
 ---
 layout: about
-title: LIU NIAN (刘念)
+title: LIU NIAN
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. National University of Singapore, PhD candidate <a href='#'>Motto</a>. Pursue the best, accept the worst.
+subtitle: <a href='#'>National University of Singapore, PhD candidate</a>. /Pursue the best, accept the worst.
 
 profile:
   align: right
