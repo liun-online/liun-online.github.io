@@ -2,14 +2,14 @@
 layout: about
 title: NIAN LIU
 permalink: /
-subtitle: National University of Singapore, PhD candidate.
+subtitle: >
+  <p><a href='#'>Strive for excellence, embrace the outcome.</a></p>
+  <p>National University of Singapore, PhD candidate.</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Strive for excellence, embrace the outcome.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
