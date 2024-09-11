@@ -18,4 +18,4 @@ I am a 2nd year Ph.D. student in the School of Computing at National University 
 
 My research interests include Graph Neural Network, Graph Transformer, Graph Signal Processing and Graph Self-supervised Learning. Now, I am engaging in the graph diffusion generation technique and its applications on AI4Material.
 
-<font color=gray size=3><i>"Success is not final, failure is not fatal: It is the courage to continue that counts."   -- Winston Churchill</i></font>
+<font color=gray size=3><i>"Success is not final, failure is not fatal: It is the courage to continue that counts."  --Winston Churchill</i></font>
